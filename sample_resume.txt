@@ -1,0 +1,27 @@
+Aryan Singh
+aryan.singh@email.com
++91 98765 43210
+
+SUMMARY
+First-year CSE student passionate about AI and Data Science. Python seekha aur ML projects banaye hain.
+
+SKILLS
+Python, Machine Learning, SQL, Git, pandas, numpy, HTML, CSS, JavaScript
+
+EDUCATION
+B.Tech in Computer Science
+XYZ Institute of Technology | 2024 - 2028 | CGPA: 8.5
+
+EXPERIENCE
+Summer Intern - ABC Tech Solutions
+June 2025 - August 2025
+- Built a small ML model for sentiment analysis using Python and scikit-learn
+- Worked with REST API integration and Git version control
+
+PROJECTS
+College Project: Student Attendance System (Python, SQL)
+Personal Project: Todo App (React, JavaScript)
+
+CERTIFICATIONS
+AWS Cloud Practitioner (Coursera) - In Progress
+Python for Everybody - Coursera Certificate
